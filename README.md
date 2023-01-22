@@ -9,3 +9,5 @@ I applied a lot of the knowledge that I learnt from from instructors to tackle t
 It was challenging, seperating the strings from the numbers in the datasets and being able to get the total sum of the profits and losses. The instructors were helpful in giving hints on how to seperate them.
 
 I appreciate all their efforts.
+
+Here is a link to my deployrd URL: 
