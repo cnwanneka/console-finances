@@ -10,4 +10,4 @@ It was challenging, seperating the strings from the numbers in the datasets and 
 
 I appreciate all their efforts.
 
-Here is a link to my deployrd URL: 
+Here is a link to my deployrd URL: https://cnwanneka.github.io/console-finances/
