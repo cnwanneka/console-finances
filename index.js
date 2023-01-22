@@ -88,6 +88,9 @@ let finances = [
     'Jan-2017', 138230,
     'Feb-2017', 671099];
  
+
+ // method used to seperate numbers from strings.  
+  
  let tempFinances = [];
  
  finances.forEach(element => {
@@ -95,7 +98,10 @@ let finances = [
        tempFinances.push(element);
     }
  });
-    
+   
+ 
+ // adding only the numbers in the array to find the total.
+
  let total = 0;
  
  for (let i = 0; i < tempFinances.length; i++) {
@@ -103,6 +109,9 @@ let finances = [
      total +=tempFinance
    }
  
+
+// Description on the Console.
+
  console.log("Financial Analysis");
  console.log("----------------------------")
  console.log("Total Months:" + " " + tempFinances.length)
